@@ -22,5 +22,7 @@
   * SASS/SCSS
   * Less
 * JavaScript
+
+[Связаться со мной](https://vk.com/kolesn1kovw)
  
 
