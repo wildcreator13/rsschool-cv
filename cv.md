@@ -12,6 +12,9 @@
   * Blender
   * Cinema 4d
 
+* Motion
+  * Sony Vegas
+  * After Effects
 
  Из разработки я знаю на данный момент: 
  * HTML
